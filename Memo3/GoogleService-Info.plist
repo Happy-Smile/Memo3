@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>952229552188-j2hok45808lp5lod53ge7emjk8r33aap.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.952229552188-j2hok45808lp5lod53ge7emjk8r33aap</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD_rPY4zzM5oD1iNx50x_17ak4KBMBnEyE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>952229552188</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>kr.happysmile.Memo3</string>
+	<key>PROJECT_ID</key>
+	<string>memo3-d0fbb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>memo3-d0fbb.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:952229552188:ios:cfe3a66633c4157d</string>
+	<key>DATABASE_URL</key>
+	<string>https://memo3-d0fbb.firebaseio.com</string>
+</dict>
+</plist>
