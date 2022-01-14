@@ -22,6 +22,7 @@ class MemoViewController: UIViewController, UITableViewDataSource, UITableViewDe
         memoTableView.delegate = self
         
         ref = Database.database().reference()
+        
 
         // 메모 추가
 //        let key = ref.child("users/\(userId)/memoArray").childByAutoId()
